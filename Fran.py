@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Configuración de la API
-API_KEY = "YDEoDB8uwCjWchza4wIViu8j0bnyi7YN"  # API key de nuestro uisuario en polygon.io
+API_KEY = ""  # API key de nuestro usuario en polygon.io
 BASE_URL = "https://api.polygon.io/v2/aggs/ticker/{ticker}/range/1/day/{start_date}/{end_date}"
 TICKER_LIST_URL = "https://api.polygon.io/v3/reference/tickers"
 
