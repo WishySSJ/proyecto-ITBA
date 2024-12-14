@@ -52,7 +52,7 @@ Este repositorio contiene el proyecto final desarrollado como parte del curso de
 ```
 <repositorio>
 │
-├── tp.py              # Código principal del proyecto
+├── fran.py              # Código principal del proyecto
 ├── requirements.txt   # Dependencias del proyecto
 ├── README.md          # Este archivo
 ├── financial_data.db  # Base de datos SQLite generada automáticamente luego de la primer actualziacion de datos
